@@ -3,19 +3,19 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  9-3
+  9 - 3
 end
 
 def division(num1, num2)
-  6/3 
+  6 / 3 
 end
 
 def multiplication(num1, num2)
-  5*2
+  5 * 2
 end
 
 def modulo(num1, num2)
-  8%3
+  8 % 3
 end
 
 def square_root(num)
@@ -23,5 +23,5 @@ def square_root(num)
 end
 
 def order_of_operation(num1, num2, num3, num4)
-  #Hint:  5 + (( 6 * 6 ) / 7 )
+   5 + (( 6 * 6 ) / 7 )
 end
